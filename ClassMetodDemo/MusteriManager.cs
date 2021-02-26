@@ -31,5 +31,6 @@ namespace ClassMetodDemo
             Console.WriteLine("Müşteri Adı: "+musteri.adi+"\nMüşteri Soyadı:"+musteri.soyadi+"\nMüşteri Telefon Numarası: "+musteri.telNo+"\nMüşteri Id: "+musteri.id+ "\nİşlem başarılı.. Müşteri listelendi");
         }
 
+
     }
 }
